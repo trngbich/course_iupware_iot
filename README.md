@@ -14,8 +14,8 @@ Venue: Nelson Mandela African Institution (Links to an external site.), Tanzania
 
 ### Module: Use of Internet of Things (IoT) technology for hydrological measurements
 Instructors: 
+- Douglas Nyolei 
 - Jan Diels
-- Douglas
 
 ### Hardwares
 
