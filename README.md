@@ -14,17 +14,19 @@ Venue: Nelson Mandela African Institution (Links to an external site.), Tanzania
 
 ### Module: Use of Internet of Things (IoT) technology for hydrological measurements
 Instructors: 
-- Douglas Nyolei 
-- Jan Diels
+- Douglas Nyolei (c) 2019
+- Jan Diels (c) 2019
 
 ### Hardwares
 
-- Lopy4 microcontroller
-- Sensors
+- Main board: Pycom Lopy4 microcontroller
+- Breadboard
+- Antenna (LoRa/Sigfox) 
+- Sensors:
 
 | Sensors       | Variable measured           | Details  |
 | ------------- |:-------------:| -----:|
 | DS18B20       | Air, Soil temperature | temperature sensor |
-| Watermark      | Soil Moisture Content |  |
+| Watermark Sensor      | Soil Moisture Content | Irrometer |
 | Tipping-bucket rain gauge      | Rainfall |  |
 | Sonar MB7052      | Water depth in a river or channel or reservoir | Ultrasonic water level sensor |
